@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <!-- Hexágono exterior azul -->
+  <polygon points="128,10 226,74 226,182 128,246 30,182 30,74" fill="#4285F4" />
+  
+  <!-- Mini-hexágono blanco en el centro -->
+  <polygon points="128,98 162,118 162,158 128,178 94,158 94,118" fill="#FFFFFF" />
+  
+  <!-- Fragmento verde (izquierda inferior) -->
+  <polygon points="128,98 94,118 94,158 128,178" fill="#34A853" />
+  
+  <!-- Fragmento azul (derecha inferior) -->
+  <polygon points="128,98 162,118 162,158 128,178" fill="#4285F4" />
+  
+  <!-- Fragmento azul marino oscuro (superior) -->
+  <polygon points="128,98 94,118 162,118" fill="#1A73E8" />
+</svg>
